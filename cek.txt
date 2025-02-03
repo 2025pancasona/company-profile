@@ -1,7 +1,5 @@
-<?php
-echo "asdw";
-?>
+const hiddenVariable = "This is hidden";
 
-<hr />
-asdw
-  
+export function showVariable() {
+    console.log(hiddenVariable);
+}
