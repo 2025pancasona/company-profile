@@ -1,12 +1,12 @@
 // JavaScriptuntuk animasi
 
-document.addEventListener('DOMContentLoaded', function() {
+// document.addEventListener('DOMContentLoaded', function() {
 
-    const button = document.querySelector('button');
-    button.addEventListener('click', function() {
-        alert('More Info button clicked!');
-    });
-});
+//     const button = document.querySelector('button');
+//     button.addEventListener('click', function() {
+//         alert('More Info button clicked!');
+//     });
+// });
 
 
 // mengatur navbar 
